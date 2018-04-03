@@ -1,2 +1,4 @@
-# wortuhr-nodemcu-ws2812
-Wortuhr mir nodemcu und WS2812 Led
+# Wortuhr-nodemcu-ws2812
+Wortuhr mit nodemcu und WS2812 Led Stripes
+
+
