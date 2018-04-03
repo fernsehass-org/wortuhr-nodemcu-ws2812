@@ -6,7 +6,7 @@
  
  http://en.wikipedia.org/wiki/Network_Time_Protocol
 
- erstellt an 4.2.2017
+ erstellt an 3.4.2018
  von fernsehass
  
  */
@@ -81,8 +81,8 @@ int VierM[]     = {113}; //Minuten Punkt 4
 int i, Ambient, LastAmbient;
 
 //bis hier ledstrip
-char ssid[] = "HoD OG";  //  your network SSID (name)
-char pass[] = "22656893";       // your network password
+char ssid[] = "xxxxxx";  //  your network SSID (name)
+char pass[] = "xxxxxx";       // your network password
 
 unsigned int localPort = 2390;      // local port to listen for UDP packets
 
